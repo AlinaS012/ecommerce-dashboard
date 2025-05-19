@@ -55,7 +55,7 @@ library.add(
         <font-awesome-icon icon="expand" size="md" />
 
         <div class="relative">
-          <font-awesome-icon icon="bell" size="md" class="mt-1"/>
+          <font-awesome-icon icon="bell" size="md" class="mt-1" />
           <div
             class="w-4 h-4 bg-red-500 rounded-full text-white text-[10px] font-bold flex items-center justify-center absolute -top-1 -right-1"
           >
@@ -76,7 +76,7 @@ library.add(
         <img
           src="https://images.pexels.com/photos/941693/pexels-photo-941693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
           alt="avatar"
-          class="w-8 h-8 rounded-full"
+          class="w-[32px] h-[32px] rounded-full"
         />
       </div>
     </div>

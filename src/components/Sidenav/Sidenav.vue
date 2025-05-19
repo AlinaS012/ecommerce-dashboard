@@ -1,7 +1,8 @@
 <template>
   <div
-    class="hidden flex-col min-h-screen border-r border-gray-200 bg-white w-53 md:flex"
+    class="hidden flex-col min-h-screen border-r border-gray-200 bg-white w-[208px] md:flex"
   >
+  <!-- //53 -->
     <div class="h-12 flex items-center justify-center">
       <router-link to="/" class="text-xl font-bold text-[#6439ff] font-nunito"
         >Ecommerce</router-link
